@@ -28,5 +28,5 @@ Ce projet utilise la puissance de la concurrence en Go (*goroutines* et *channel
 ### 1. Cloner le projet ou naviguer dans le dossier
 
 ```bash
-git clone [https://github.com/votre-nom-utilisateur/uptime-monitor-go.git](https://github.com/votre-nom-utilisateur/uptime-monitor-go.git)
-cd uptime-monitor-go
+git clone [https://github.com/votre-nom-utilisateur/uptime-monitor-go.git](https://github.com/votre-nom-utilisateur/moniteurDiponibilit-.git)
+cd moniteurDiponibilit-
